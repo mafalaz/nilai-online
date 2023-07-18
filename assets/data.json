@@ -1,0 +1,27 @@
+{
+    "users": [
+      {
+        "username": "gurusd",
+        "password": "gurusd123",
+        "role": "dosen"
+      },
+      {
+        "username": "orangtuasiswa",
+        "password": "orangtua123",
+        "role": "mahasiswa"
+      }
+    ],
+    "mahasiswa": [
+      {
+        "nim": "20210001",
+        "nama": "John Doe",
+        "nilai": "Mata Pelajaran: 80"
+      },
+      {
+        "nim": "20210002",
+        "nama": "Jane Smith",
+        "nilai": "Mata Pelajaran: 90"
+      }
+    ]
+  }
+  
